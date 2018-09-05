@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536062671738.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "72643EDB",
+    "lastKnownWriteTime" : 1536071501,
+    "last_content_update" : 1536071501443,
+    "path" : "C:/Users/NWUuser/Desktop/data-carpentry/data-analysis.r",
+    "project_path" : "data-analysis.r",
+    "properties" : {
+        "cursorPosition" : "70,0",
+        "scrollLine" : "52",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
